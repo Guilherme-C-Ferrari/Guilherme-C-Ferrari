@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🖥️ I'm Guilherme Ferrari, a Computer Science student from Brazil. I'm studying to become a developer.<br><br>- 🎓  I'm currently in the fourth semester of Computer Science at Ritter dos Reis University Center.<br>- ⚡ In my free time I like to play videos games, listen to music and play tabletop RPGs.<br>- ✉️ With you want to contact me, my email for contact and lindekin can be founded at the last section.</p>
+<p align="left">🖥️ I'm Guilherme Ferrari, a Computer Science student from Brazil. I'm studying to become a developer.<br><br>- 🎓  I'm currently in the fourth semester of Computer Science at Ritter dos Reis University Center.<br>- ⚡ In my free time I like to play videos games, listen to music and play tabletop RPGs.<br>- ✉️ With you want to contact me, my email for contact and lindekin can be found at the last section.</p>
 
 ###
 
