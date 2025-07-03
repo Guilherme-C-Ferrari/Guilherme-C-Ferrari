@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermecarvalhoferrari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Guilherme Carvalho Ferrari&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-GuilhermeFerrari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:guicferrari@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=guicferrari@Hotmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
